@@ -22,7 +22,11 @@ Welcome to my GitHub profile! Here's a little about me:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeartwothousandfive&show_icons=true&theme=radical)
 
 ---
-
+## 🎧 Spotify Stats
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rngj9zygboy93nv03i0jlrwym">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rngj9zygboy93nv03i0jlrwym" alt="Data Card for Spotify">
+</a>
+---
 ## 📫 Let's Connect
 - **Email**: yeartwothousandfive@gmail.com
 
