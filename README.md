@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello there! 👋 I'm yeartwothousandfive
 
-<!--
-**yeartwothousandfive/yeartwothousandfive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 💻 **Tech Enthusiast**: I love exploring new technologies, building projects, and solving problems.
+- 🌱 **Lifelong Learner**: Currently learning C, C++, Java, Python, and Web basics (HTML/CSS).
+- 🎯 **Goals**: Upload small projects, solve beginner coding problems, and grow my GitHub little by little.
+
+---
+
+## 🔧 Technologies & Tools
+- **Languages**: C, C++, Java, Python, HTML, CSS
+- **Frameworks & Libraries**: (Still learning — not much for now!)
+- **Tools**: VS Code, Git & GitHub, Ubuntu, Windows, Termux (sometimes)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeartwothousandfive&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- **Email**: yeartwothousandfive@gmail.com
+
+---
+
+> “Even the smallest spark can light the way.” — *someone*
+
+Thanks for stopping by! 🚀
