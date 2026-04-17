@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=hey,%20i'm%20kier%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=builder%20in%20progress&descAlignY=58&descSize=16&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=hey,%20i'm%20ker%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=builder%20in%20progress&descAlignY=58&descSize=16&descColor=a78bfa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=CS+student+%7C+full-stack+hopeful;Linux+daily+driver;grinding+freeCodeCamp+at+2am)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=CS+student+%7C+full-stack+hopeful;Linux+daily+driver;grinding+at+2am)](https://git.io/typing-svg)
 
 </div>
 
